@@ -36,6 +36,7 @@ Github是一个面向开发者的代码托管平台和协作工具，主要用�
 - 登录 GitHub 账号。
 - 点击页面右上角的加号图标，选择“New repository”。
 - 命名仓库为 `myblog.github.io`。
+- 选择了公开仓库，并且勾选了“Initialize this repository with a README”选项。
 
 ### 3. 
 
